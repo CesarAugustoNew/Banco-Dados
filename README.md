@@ -1,2 +1,2 @@
 # Banco De Dados
-Aprendendo SQL.
+Aprendendo MySQL.
